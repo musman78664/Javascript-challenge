@@ -1,4 +1,1 @@
-// from data.js
-var tableData = data;
-
-// YOUR CODE HERE!
+// Level 2: Multiple Search Categories (Optional)
