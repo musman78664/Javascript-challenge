@@ -11,6 +11,7 @@
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
+
 ### Level 2: Multiple Search Categories (Optional)
 
 * Complete all of Level 1 criteria.
@@ -22,9 +23,3 @@
   3. `state`
   4. `country`
   5. `shape`
-
-- - -
-
-### Dataset
-
-* [UFO Sightings Data](StarterCode/static/js/data.js)
